@@ -1,4 +1,4 @@
-##### Real Estate Sector Analysis and Intelligent Assistant
+##### Real-Estate-Price-Prediction
 
 ## Overview
 This project focuses on building a data-driven analytical solution for the **Real Estate sector**, aimed at extracting meaningful business insights from property and sales-related datasets.
